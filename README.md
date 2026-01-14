@@ -4,7 +4,7 @@
 
 ## 预览
 
-![Amp Preview](https://sfile.chatglm.cn/images-ppt/f12f26bed03c.png)
+![Amp Preview](https://camo.githubusercontent.com/bed3ce5b00de713e1c92612db6b5ea014ac0c367a61bbe429aa642e309ea8dbe/68747470733a2f2f7374617469632e616d70636f64652e636f6d2f636f6e74656e742f616d702d7673636f64652d312e706e67)
 
 ## 特性
 
